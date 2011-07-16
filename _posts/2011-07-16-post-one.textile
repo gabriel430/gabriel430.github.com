@@ -1,0 +1,8 @@
+---
+layout: default
+title: first post!!!
+---
+
+h1. {{ page.title }}
+
+Hi this is a post.
